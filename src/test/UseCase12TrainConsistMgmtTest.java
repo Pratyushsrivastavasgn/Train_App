@@ -1,4 +1,4 @@
-package test;
+package test
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TrainConsistManagementAppTest {
+public class UseCase12TrainConsistMgmtTest {
 
     static class Bogie {
         String name;
